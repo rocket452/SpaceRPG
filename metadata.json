@@ -1,0 +1,6 @@
+{
+  "name": "Starship Tactical Combat",
+  "description": "Tactical 3D starship combat game with 4-arc shield mechanics, low-poly 3D polygon ships, strategic power allocation, and beam/torpedo weapon firing arcs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
